@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using ServicesContracts;
 using UserDirectoryAPI.Domain;
-using UserDirectoryWebApi.Models;
+
 
 namespace UserDirectoryWebApi.Controllers
 {
